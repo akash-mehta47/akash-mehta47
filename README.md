@@ -72,8 +72,8 @@
 </div>
 
 <div align="center">
-  <a href="https://leetcode.com/akash_mehta47/">
-    <img width="48%" src="https://leetcard.jacoblin.cool/akash_mehta47?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/akash_mehta8647/">
+    <img width="48%" src="https://leetcard.jacoblin.cool/akash_mehta8647?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/akashkui2g9/">
     <img width="48%" src="https://gfgstatscard.vercel.app/akashkui2g9?theme=dark" alt="GFG Stats"/>
