@@ -1,16 +1,10 @@
-
 # 💫 About Me:
-👋 Hi, I’m Akash
-<br>
 👀Android Development
 <br>
 👯 I’m looking to collaborate
 <br>
 🌱 Currently learning Kotlin
 <br>
-📫 How to reach me: akashku0123p@gmail.com
-<br>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash;Android+Developer+%F0%9F%93%B1;CSE+Student+%40+TIT+Bhopal;500%2B+DSA+Problems+Solved+%E2%9C%85" alt="Typing SVG" />
 </h1>
@@ -71,18 +65,18 @@
   
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| **LeetCode** | [@akash_mehta8647](https://leetcode.com/akash_mehta47/) | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/akash_mehta8647&logo=leetcode&logoColor=yellow) |
+| **LeetCode** | [@akash_mehta8647](https://leetcode.com/akash_mehta47/) | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/akash_mehta47&logo=leetcode&logoColor=yellow) |
 | **GeeksforGeeks** | [@akashkui2g9](https://auth.geeksforgeeks.org/user/akashkui2g9/) | ![GeeksForGeeks](https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) |
 | **CodeChef** | [@agent_akash47](https://www.codechef.com/users/agent_akash47) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) |
 
 </div>
 
 <div align="center">
-  <a href="https://leetcode.com/akash-mehta47/">
-    <img width="48%" src="https://leetcard.jacoblin.cool/akash-mehta47?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/akash_mehta47/">
+    <img width="48%" src="https://leetcard.jacoblin.cool/akash_mehta47?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/akashkui2g9/">
-    <img width="48%" src="https://gfgstatscard.vercel.app/ns922ahwq?theme=dark" alt="GFG Stats"/>
+    <img width="48%" src="https://gfgstatscard.vercel.app/akashkui2g9?theme=dark" alt="GFG Stats"/>
   </a>
 </div>
 
@@ -91,10 +85,10 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/akash-mehta47/K2T">
+  <a href="https://github.com/akash-mehta47/UpastithiTeach">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=UpastithiTeach&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="UpastithiTeach"/>
   </a>
-  <a href="https://github.com/akash-mehta47/Expense-tracker">
+  <a href="https://github.com/akash-mehta47/UpastithiStu">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=UpastithiStu&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="UpastithiStu"/>
   </a>
 </div>
@@ -113,6 +107,18 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-mehta47&theme=radical" alt="Contribution Summary"/>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akash-mehta47&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akash-mehta47&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-mehta47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akash-mehta47&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=akash-mehta47&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <br/>
 
