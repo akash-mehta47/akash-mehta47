@@ -1,3 +1,16 @@
+
+# 💫 About Me:
+👋 Hi, I’m Akash
+<br>
+👀Android Development
+<br>
+👯 I’m looking to collaborate
+<br>
+🌱 Currently learning Kotlin
+<br>
+📫 How to reach me: akashku0123p@gmail.com
+<br>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash;Android+Developer+%F0%9F%93%B1;CSE+Student+%40+TIT+Bhopal;500%2B+DSA+Problems+Solved+%E2%9C%85" alt="Typing SVG" />
 </h1>
@@ -58,9 +71,9 @@
   
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| **LeetCode** | [@akash-mehta47](https://leetcode.com/akash-mehta47/) | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/akash-mehta47&logo=leetcode&logoColor=yellow) |
-| **GeeksforGeeks** | [@ns922ahwq](https://auth.geeksforgeeks.org/user/ns922ahwq/) | ![GeeksForGeeks](https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) |
-| **CodeChef** | [@neeraj_1404](https://www.codechef.com/users/neeraj_1404) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) |
+| **LeetCode** | [@akash_mehta8647](https://leetcode.com/akash_mehta47/) | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/akash_mehta8647&logo=leetcode&logoColor=yellow) |
+| **GeeksforGeeks** | [@akashkui2g9](https://auth.geeksforgeeks.org/user/akashkui2g9/) | ![GeeksForGeeks](https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) |
+| **CodeChef** | [@agent_akash47](https://www.codechef.com/users/agent_akash47) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) |
 
 </div>
 
@@ -68,7 +81,7 @@
   <a href="https://leetcode.com/akash-mehta47/">
     <img width="48%" src="https://leetcard.jacoblin.cool/akash-mehta47?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/ns922ahwq/">
+  <a href="https://auth.geeksforgeeks.org/user/akashkui2g9/">
     <img width="48%" src="https://gfgstatscard.vercel.app/ns922ahwq?theme=dark" alt="GFG Stats"/>
   </a>
 </div>
@@ -79,10 +92,10 @@
 
 <div align="center">
   <a href="https://github.com/akash-mehta47/K2T">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=K2T&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="K2T Project"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=UpastithiTeach&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="UpastithiTeach"/>
   </a>
   <a href="https://github.com/akash-mehta47/Expense-tracker">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=Expense-tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="Expense Tracker"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=UpastithiStu&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="UpastithiStu"/>
   </a>
 </div>
 
@@ -90,8 +103,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **K2T (Kitchen to Tablet)** | Complete restaurant management system | Android, Firebase|
-| **Soccer Scoring App** | Real-time scoccer scoring (Research Paper) | Android, Firestore, FCM |
+| **UpastithiTeach** | Admin side management system | Android, Firebase|
+| **UpastithiStu** | User side attendance system | Android, Firestore |
 
 <br/>
 
@@ -106,13 +119,13 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akash-mehta47/">
+  <a href="https://www.linkedin.com/in/akash-kumar-361baa185/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/akash-mehta47_">
+  <a href="https://instagram.com/skyfallxsh">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:dev.neerajsahu@gmail.com">
+  <a href="mailto:akashku0123p@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/akash-mehta47">
@@ -124,20 +137,6 @@
 
 <div align="center">
   
-### 💡 Current Focus
-
-```kotlin
-currentlyWorking {
-    projects = listOf("K2T 2.0", ", "Soccer-Scorring")
-    learning = listOf("Kotlin Multiplatform", "Jetpack Compose")
-    exploring = listOf("Microservices Architecture", "GraphQL", "CI/CD Pipelines")
-}
-```
-
-**💬 Ask me about:** Android Development, Kotlin, Jetpack Compose, Firebase, DSA  
-**📫 Reach me at:** dev.neerajsahu@gmail.com  
-**⚡ Fun fact:** Solved 1000+ coding problems while building production apps! 🚀
-
 </div>
 
 ---
