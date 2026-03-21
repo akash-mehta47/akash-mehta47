@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/github/followers/akash-mehta47?style=for-the-badge&color=00ff88&logo=github"/>
   <img src="https://img.shields.io/github/stars/akash-mehta47?style=for-the-badge&color=ffdd00&logo=github"/>
 </div>
-
-<br/>
-
 ---
 
 <br/>
@@ -44,13 +41,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=neerajsahu14&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=neerajsahu14&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akash-mehta47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=akash-mehta47&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsahu14&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=neerajsahu14&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00ff88&point=ff6b6b" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-mehta47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=akash-mehta47&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00ff88&point=ff6b6b" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -61,15 +58,15 @@
   
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| **LeetCode** | [@neerajsahu14](https://leetcode.com/neerajsahu14/) | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/neerajsahu14&logo=leetcode&logoColor=yellow) |
+| **LeetCode** | [@akash-mehta47](https://leetcode.com/akash-mehta47/) | ![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/akash-mehta47&logo=leetcode&logoColor=yellow) |
 | **GeeksforGeeks** | [@ns922ahwq](https://auth.geeksforgeeks.org/user/ns922ahwq/) | ![GeeksForGeeks](https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) |
 | **CodeChef** | [@neeraj_1404](https://www.codechef.com/users/neeraj_1404) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) |
 
 </div>
 
 <div align="center">
-  <a href="https://leetcode.com/neerajsahu14/">
-    <img width="48%" src="https://leetcard.jacoblin.cool/neerajsahu14?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/akash-mehta47/">
+    <img width="48%" src="https://leetcard.jacoblin.cool/akash-mehta47?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/ns922ahwq/">
     <img width="48%" src="https://gfgstatscard.vercel.app/ns922ahwq?theme=dark" alt="GFG Stats"/>
@@ -81,11 +78,11 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/neerajsahu14/K2T">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsahu14&repo=K2T&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="K2T Project"/>
+  <a href="https://github.com/akash-mehta47/K2T">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=K2T&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="K2T Project"/>
   </a>
-  <a href="https://github.com/neerajsahu14/Expense-tracker">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsahu14&repo=Expense-tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="Expense Tracker"/>
+  <a href="https://github.com/akash-mehta47/Expense-tracker">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=Expense-tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="Expense Tracker"/>
   </a>
 </div>
 
@@ -101,7 +98,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neerajsahu14&theme=radical" alt="Contribution Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-mehta47&theme=radical" alt="Contribution Summary"/>
 </div>
 
 <br/>
@@ -109,16 +106,16 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/neerajsahu14/">
+  <a href="https://www.linkedin.com/in/akash-mehta47/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/neerajsahu14_">
+  <a href="https://instagram.com/akash-mehta47_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:dev.neerajsahu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/neerajsahu14">
+  <a href="https://github.com/akash-mehta47">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -150,6 +147,6 @@ currentlyWorking {
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/neerajsahu14">neerajsahu14</a> - Building the future, one commit at a time! 🚀</i>
+  <i>⭐️ From <a href="https://github.com/akash-mehta47">akash-mehta47</a> - Building the future, one commit at a time! 🚀</i>
 </div>
 
