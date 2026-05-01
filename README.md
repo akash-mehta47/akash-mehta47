@@ -117,6 +117,16 @@
 ![](https://github-profile-trophy.vercel.app/?username=akash-mehta47&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+
+<div align="center">
+  <a href="https://github.com/akash-mehta47/Reskyu">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=Reskyu&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="Reskyu"/>
+  </a>
+  <a href="https://github.com/akash-mehta47/Coding-Problems">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-mehta47&repo=Coding-Problems&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00ff88&text_color=c9d1d9" alt="Coding-Problems"/>
+  </a>
+</div>
+
 ![](https://github-contributor-stats.vercel.app/api?username=akash-mehta47&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
